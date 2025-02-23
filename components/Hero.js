@@ -23,7 +23,7 @@ const Hero = () => {
     },
     {
       icon: <MdEmail size={24} />,
-      url: "mailto:your.syedyousuf22@outlook.com",
+      url: "mailto:your.skyousuf22@outlook.com",
       label: "Email Me"
     }
   ];
