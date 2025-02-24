@@ -6,7 +6,7 @@ export default function Projects() {
   const projects = [
     {
       title: "Yukti 2025 Fest Website",
-      description: "Official website for Yukti 2025 - A National Level Technical Symposium. Built with modern web technologies and features dynamic event registration, gallery, and team information.",
+      description: "Official website for Yukti 2025 - A Regional Level Techno Cultural Management Fest. Built with modern web technologies and features dynamic event registration, gallery, and team information.",
       link: "https://yukti.vtucpgsklb.in/",
     },
     {
