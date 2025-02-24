@@ -47,7 +47,7 @@ const About = () => {
         >
           <h3 className="text-xl sm:text-2xl font-bold mb-4 text-purple-400">Education</h3>
           <div className="space-y-2 text-gray-300">
-            <p className="text-base sm:text-lg font-medium">Bachelor of Technology in Computer</p>
+            <p className="text-base sm:text-lg font-medium">Bachelor of Technology in Computer Science & Engineering</p>
             <p className="text-sm sm:text-base">VTU Centre for PG Studies, Kalaburagi</p>
             <p className="text-sm text-purple-300">2022 - Present • Currently in 3rd Year</p>
           </div>

@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaXTwitter } from 'react-icons/fa6';
 import { MdEmail } from 'react-icons/md';
 
 export default function Footer() {
@@ -22,6 +22,12 @@ export default function Footer() {
       icon: <FaGithub size={28} />,
       url: "https://github.com/yousufSKY",
       label: "GitHub Profile",
+      hoverColor: "hover:text-gray-400"
+    },
+    {
+      icon: <FaXTwitter size={28} />,
+      url: "https://twitter.com/YourTwitterHandle",
+      label: "X Profile",
       hoverColor: "hover:text-gray-400"
     }
   ];
