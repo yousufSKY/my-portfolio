@@ -26,7 +26,7 @@ export default function Footer() {
     },
     {
       icon: <FaXTwitter size={28} />,
-      url: "https://twitter.com/YourTwitterHandle",
+      url: "https://twitter.com/ysyed8724/",
       label: "X Profile",
       hoverColor: "hover:text-gray-400"
     }
