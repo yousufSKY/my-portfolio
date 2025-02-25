@@ -8,7 +8,7 @@ export default function Footer() {
   const socialLinks = [
     {
       icon: <MdEmail size={28} />,
-      url: "mailto:your.skyousuf22@outlook.com",
+      url: "mailto:skyousuf22@outlook.com",
       label: "Email Me",
       hoverColor: "hover:text-purple-400"
     },
