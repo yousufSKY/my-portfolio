@@ -4,12 +4,13 @@ import {
   Globe, 
   GraduationCap, 
   LayoutGrid, 
-  ShieldCheck
+  ShieldCheck,
+  LucideIcon
 } from "lucide-react";
 
 export type Skill = {
   name: string;
-  icon: React.FC;
+  icon: LucideIcon;
 };
 
 export const skills: Skill[] = [
